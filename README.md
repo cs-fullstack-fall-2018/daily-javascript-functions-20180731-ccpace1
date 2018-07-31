@@ -1,6 +1,6 @@
 # Daily-JavaScript-Functions-20180731
 Daily Question - JavaScript Functions
-
+Answer is C
 ### What basic code is needed to define a function in JavaScript?
 A. ```function myFunction { }```
 
